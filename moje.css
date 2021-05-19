@@ -1,0 +1,25 @@
+body{
+    background: url(img/zenicu.jpg);
+    background-attachment: fixed;
+}
+
+.bg-dark {
+    background-color: #3d0066ef!important;
+}
+
+.bg-secondary {
+    background-color: #2e014def!important;
+}
+
+nav img  {
+    width: 70px;
+}
+
+.font-weight-bold {
+    font-family:sans-serif!important;
+}
+
+.display-4 {
+    font-size: 20px;
+
+}
