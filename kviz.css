@@ -3,6 +3,7 @@
 body{
     background: url(img/anime-desktop-nawpic.jpg);
     background-attachment: fixed;
+    background-height: 40vh;
 }
 
 .bg-dark {
